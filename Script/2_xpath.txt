@@ -1,0 +1,4 @@
+네이버 로그인 예시
+
+//*[@id="account"]/a
+/html/body/div[2]/div[3]/div[3]/div/div[2]/a
